@@ -1,0 +1,12 @@
+.boxes {
+    height:250px;
+    width:300px;
+}
+#links {
+    margin:auto;
+    width:800px;
+}
+.menu {
+    float:right;
+    margin:5px;
+}
