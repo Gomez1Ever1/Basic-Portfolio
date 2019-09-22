@@ -14,10 +14,7 @@ header {
     padding: 10px;
     height: 50px;
 }
-h1 {
-    color: #eee;
-    font-size: 28px;
-}
+
 #borders{
     border-left-style:solid;
     border-right-style:solid;
