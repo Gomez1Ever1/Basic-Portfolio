@@ -5,21 +5,7 @@ body {
     background-color: #dddddd;
     font-style: "Georgia", Times, Serif; 
     color: #333333;
-}
-header {
-    width: 100%;
-    position:fixed;
-    left:00px;
-    text-align:center;
-    background-color: #333333
-}
-h1 {
-    color: #eee;
-    font-size: 28px;
-}
-h2 {
-    background-color: #4aaaa5;
-    font-size: 24px;
+    padding-bottom:100px;
 }
 h3 {
     text-align:center;
@@ -27,44 +13,22 @@ h3 {
     padding:0;
     margin:0;
 }
-#floatingname {
-    position: fixed;
-    top: 0;
-    left:50px;
-    padding: 10px;
-    height: 50px;
-}
-#container {
+#container { 
     padding: 30px;
-    width: 960px;
+    width: 70%;
     margin: auto;
     background-color: #eee;
     padding-top:70px;
 }
 #biotext{
     text-align:right; 
- 
 }
 #bio-image{
     width: 40%;
     float: left;
     margin:20px;
 }
-.contact-info {
-    width: 30%;
-}
-footer {
-    background-color: #333333;
-    color: #eee;
-    text-align:center;
-}
 #main-bio {
     border-style:dotted;
     padding:10px;
-}
-#dif-box {
-    width:100%;
-    padding-right:60%;
-    margin:auto;
-    
 }
